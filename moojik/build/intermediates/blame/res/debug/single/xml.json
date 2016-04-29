@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/blurred_widget_info.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/blurred_widget_info.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/album_art_widget_info.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/album_art_widget_info.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/large_widget_info.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/large_widget_info.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/settings_appearance.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/settings_appearance.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/settings_headers.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/settings_headers.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/medium_widget_info.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/medium_widget_info.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/settings_layouts.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/settings_layouts.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/settings_music_library.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/settings_music_library.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/xml/small_widget_info.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/xml/small_widget_info.xml"
+    }
+]

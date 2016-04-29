@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-sw600dp-land/screen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 104,
+                        "endColumn": 36,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 52,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-sw600dp-land/screen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]

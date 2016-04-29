@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_screen_2.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_screen_2.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_blacklist_manager.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_blacklist_manager.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/blacklist_manager_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/blacklist_manager_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/music_library_editor_artists_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/music_library_editor_artists_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/albums_grid_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/albums_grid_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_edit_id3_gmusic_album_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_edit_id3_gmusic_album_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_genres_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_genres_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_albums_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_albums_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/albums_grid_view_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/albums_grid_view_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_browser_sub_list.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_browser_sub_list.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_queue_drawer.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_queue_drawer.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_equalizer.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_equalizer.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dialog_crossfade_duration.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dialog_crossfade_duration.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/navigation_drawer_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/navigation_drawer_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/artists_flipped_albums_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/artists_flipped_albums_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_browser_sub_grid.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_browser_sub_grid.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dialog_generic_text.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dialog_generic_text.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/folder_view_layout_multiselect.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/folder_view_layout_multiselect.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/blurred_widget_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/blurred_widget_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_playlist_pager_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_playlist_pager_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/top_25_played_list_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/top_25_played_list_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/music_library_editor_albums_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/music_library_editor_albums_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_settings_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_settings_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/colored_card.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/colored_card.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/songs_list_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/songs_list_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_screen_3.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_screen_3.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_playlist_pager_fill.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_playlist_pager_fill.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_2_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_2_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_genres.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_genres.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_folders.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_folders.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/queue_drawer_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/queue_drawer_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/medium_widget_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/medium_widget_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/custom_actionbar_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/custom_actionbar_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/sliding_menu_browsers_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/sliding_menu_browsers_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/playlists_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/playlists_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/artists_grid_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/artists_grid_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/artists_list_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/artists_list_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_list_view.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_list_view.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/customize_screens_listview_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/customize_screens_listview_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/transparent_widget_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/transparent_widget_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_rescan_prompt_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_rescan_prompt_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/determinate_progress_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/determinate_progress_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_now_playing.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_now_playing.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/playlist_flipped_listview_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/playlist_flipped_listview_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/parent_directory_view.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/parent_directory_view.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_repeat_song_range_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_repeat_song_range_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/albums_flipped_list_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/albums_flipped_list_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dummy_layout_2.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dummy_layout_2.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_screen_5.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_screen_5.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/now_playing_queue_listview_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/now_playing_queue_listview_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/list_view_sub_browser_item.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/list_view_sub_browser_item.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/music_library_editor_songs_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/music_library_editor_songs_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_genres_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_genres_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_artists_music_library_editor.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_artists_music_library_editor.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/actionbar_toggle_switch_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/actionbar_toggle_switch_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dialog_google_authentication_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dialog_google_authentication_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/list_view_item.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/list_view_item.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_playlists_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_playlists_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/albums_flipped_list_view_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/albums_flipped_list_view_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/small_widget_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/small_widget_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/now_playing_queue_listview_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/now_playing_queue_listview_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/number_picker_with_selector_wheel.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/licenses_dialog_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/licenses_dialog_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_music_library_editor.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_music_library_editor.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/add_new_playlist_dialog_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/add_new_playlist_dialog_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/generic_message_listview_dialog_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/generic_message_listview_dialog_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_save_location_folders.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_save_location_folders.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/artists_list_view_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/artists_list_view_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_albums_music_library_editor.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_albums_music_library_editor.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/playlists_list_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/playlists_list_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_caution_edit_artists.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_caution_edit_artists.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_finish_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_finish_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_grid_view.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_grid_view.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/customize_screens_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/customize_screens_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_trial_version.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_trial_version.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_artists_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_artists_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/playlist_flipped_listview_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/playlist_flipped_listview_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/trial_expiry_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/trial_expiry_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_screen_6.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_screen_6.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/notification_custom_expanded_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/notification_custom_expanded_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_settings.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/notification_custom_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/notification_custom_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/large_widget_listview_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/large_widget_listview_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/add_new_equalizer_preset_dialog_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/add_new_equalizer_preset_dialog_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/songs_list_view_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/songs_list_view_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/album_art_widget_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/album_art_widget_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dialog_playlist_information.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dialog_playlist_information.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_now_playing_queue.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_now_playing_queue.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_test.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_building_library_progress.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_building_library_progress.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/sliding_menu_frame.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/sliding_menu_frame.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/top_25_played_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/top_25_played_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_got_google_play_music_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_got_google_play_music_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_artists_flipped_songs.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_artists_flipped_songs.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_folders_selection.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_folders_selection.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/rename_playlist_dialog_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/rename_playlist_dialog_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_special_offer_upgrade.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_special_offer_upgrade.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_edit_id3_artist_album_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_edit_id3_artist_album_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/sliding_menu_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/sliding_menu_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/large_widget_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/large_widget_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/folder_view_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/folder_view_cards_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/grid_view_item.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/grid_view_item.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/now_playing_queue_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/now_playing_queue_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/folder_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/folder_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/google_play_music_authentication_dialog.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/google_play_music_authentication_dialog.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/artists_flipped_albums_cards_list_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/artists_flipped_albums_cards_list_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_screen.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_screen.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dialog_add_music_library.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dialog_add_music_library.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_welcome_screen_4.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_welcome_screen_4.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_now_playing_flipped.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_now_playing_flipped.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/dummy_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/dummy_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/settings_list_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/settings_list_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_songs_music_library_editor.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_songs_music_library_editor.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_audio_fx.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_audio_fx.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_delete_playlists_warning.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_delete_playlists_warning.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/original_settings_list_view_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/original_settings_list_view_layout.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_caution_edit_albums.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_caution_edit_albums.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/fragment_blacklist_manager.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/fragment_blacklist_manager.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/activity_launcher.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/layout/artists_grid_view_cards_layout.xml",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/layout/artists_grid_view_cards_layout.xml"
+    }
+]

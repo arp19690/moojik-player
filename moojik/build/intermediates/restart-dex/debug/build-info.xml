@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="164068851556585" >
+
+    <task
+        name="javac"
+        duration="10580" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="21146" />
+    <task
+        name="verifier"
+        duration="2524" />
+
+    <artifact
+        location="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/outputs/apk/moojik-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="164068851556585" >
+        <artifact
+            location="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/outputs/apk/moojik-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

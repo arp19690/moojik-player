@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="landscape">true</bool>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <dimen name="slidingmenu_offset">600dp</dimen>
+    <string name="screen_size">large_tablet</string>
+</resources>
