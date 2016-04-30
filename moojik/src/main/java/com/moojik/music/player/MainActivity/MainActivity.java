@@ -26,6 +26,7 @@ import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.widget.DrawerLayout;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.Gravity;
 import android.view.LayoutInflater;
@@ -146,6 +147,8 @@ public class MainActivity extends FragmentActivity {
 
 		//Loading ads here
 		AdView mAdView = (AdView) findViewById(R.id.adView);
+		if(mAdView==null)
+		Log.i("testing","adview is null");
 		AdRequest adRequest = new AdRequest.Builder().build();
 		mAdView.loadAd(adRequest);
     	
@@ -520,7 +523,8 @@ public class MainActivity extends FragmentActivity {
         mDrawerToggle.syncState();
     }
 
-    @Override
+    @SuppressWarnings("WrongConstant")
+	@Override
     public void onBackPressed() {
 
         if(mDrawerLayout.isDrawerOpen(Gravity.START)) { // Close left drawer if opened
