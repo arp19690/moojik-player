@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="landscape">false</bool>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <dimen name="kitkat_nav_bar_margin">0dp</dimen>
+    <dimen name="kitkat_nav_bar_margin_large">30dp</dimen>
+    <dimen name="slidingmenu_offset">600dp</dimen>
+    <string name="screen_size">large_tablet</string>
+</resources>

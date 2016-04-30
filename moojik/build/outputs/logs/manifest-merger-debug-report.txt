@@ -12,7 +12,7 @@ ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/mooj
 	android:hardwareAccelerated
 		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:4:5-39
 	android:versionCode
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:5:5-29
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:5:5-28
 		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml
 		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml
 	xmlns:android
