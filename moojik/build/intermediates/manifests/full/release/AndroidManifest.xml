@@ -306,14 +306,6 @@
             android:name="com.moojik.music.player.BrowserSubGridActivity.BrowserSubGridActivity"
             android:label="@string/title_activity_browsser_sub_grid" >
         </activity>
-        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-        <activity
-            android:name="com.google.android.gms.ads.AdActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-            android:theme="@android:style/Theme.Translucent" />
-        <activity
-            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
-            android:theme="@style/Theme.IAPTheme" />
     </application>
 
 </manifest>

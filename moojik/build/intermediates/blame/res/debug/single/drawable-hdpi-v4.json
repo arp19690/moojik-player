@@ -8,24 +8,24 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/menu_dropdown_panel_apptheme.9.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_dropdown_panel_appthemelight.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/menu_dropdown_panel_appthemelight.9.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/search.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_dropdown_panel_appthemelight.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/menu_dropdown_panel_appthemelight.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/lockscreen_controls_light.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/lockscreen_controls_light.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/add_new_library_light.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/add_new_library_light.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cab_done_default_appthemelight.9.png",
@@ -56,20 +56,20 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/lockscreen_controls.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/recently_added.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/recently_added.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/accounts_light.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/accounts_light.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_focused_appthemelight.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/tab_unselected_focused_appthemelight.9.png"
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/recently_added.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/recently_added.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/ab_bottom_solid_appthemelight.9.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/ab_bottom_solid_appthemelight.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_focused_appthemelight.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/tab_unselected_focused_appthemelight.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/cog_highlighted.png",
@@ -100,16 +100,16 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/top_25_played.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrubber_control_normal_holo.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/scrubber_control_normal_holo.png"
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cab_done_pressed_apptheme.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/btn_cab_done_pressed_apptheme.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/color_palette_light.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/color_palette_light.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cab_done_pressed_apptheme.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/btn_cab_done_pressed_apptheme.9.png"
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrubber_control_normal_holo.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/scrubber_control_normal_holo.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_archive.png",
@@ -124,20 +124,20 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/accounts.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/appwidget_dark_bg.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/appwidget_dark_bg.9.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner_ab_default_appthemelight.9.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/spinner_ab_default_appthemelight.9.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_secondary_appthemelight.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/progress_secondary_appthemelight.9.png"
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/appwidget_dark_bg.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/appwidget_dark_bg.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/genres.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/genres.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/progress_secondary_appthemelight.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-hdpi/progress_secondary_appthemelight.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-hdpi-v4/spinner_ab_pressed_appthemelight.9.png",

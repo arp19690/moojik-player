@@ -40,12 +40,12 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/playlists_light.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/equalizer_light.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/equalizer_light.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/albums.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/albums.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/equalizer_light.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/equalizer_light.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/album_artists_light.png",
@@ -60,24 +60,24 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/action_settings.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/file_generic_light.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/file_generic_light.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/checkmark_light.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/checkmark_light.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/drag_handle.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/drag_handle.png"
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/file_generic_light.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/file_generic_light.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/auto_cover_fetch_light.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/auto_cover_fetch_light.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/cover_art_icon_light.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/cover_art_icon_light.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/auto_cover_fetch_light.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/auto_cover_fetch_light.png"
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/drag_handle.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-ldpi/drag_handle.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-ldpi-v4/licenses_light.png",
