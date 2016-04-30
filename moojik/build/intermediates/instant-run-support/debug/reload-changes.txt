@@ -1,4 +1,0 @@
-CHANGED,/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/moojik/music/player/R$id$override.class
-CHANGED,/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/moojik/music/player/MainActivity/MainActivity$override.class
-CHANGED,/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/moojik/music/player/NowPlayingActivity/NowPlayingActivity$override.class
