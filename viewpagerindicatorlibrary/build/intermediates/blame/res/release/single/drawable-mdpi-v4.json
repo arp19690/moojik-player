@@ -20,11 +20,11 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/src/main/res/drawable-mdpi/vpi__tab_unselected_pressed_holo.9.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/src/main/res/drawable-mdpi/vpi__tab_unselected_holo.9.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_unselected_focused_holo.9.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/src/main/res/drawable-mdpi/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/release/drawable-mdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/src/main/res/drawable-mdpi/vpi__tab_unselected_holo.9.png"
     }
 ]

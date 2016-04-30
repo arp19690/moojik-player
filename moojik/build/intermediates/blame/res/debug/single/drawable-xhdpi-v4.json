@@ -276,12 +276,12 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-xhdpi/ic_action_overflow.png"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-xhdpi-v4/folder_large.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-xhdpi/folder_large.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/drawable-xhdpi-v4/progress_primary_appthemelight.9.png",

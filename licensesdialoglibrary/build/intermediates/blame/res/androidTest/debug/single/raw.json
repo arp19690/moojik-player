@@ -32,11 +32,11 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/raw/isc_full.txt"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/res/merged/androidTest/debug/raw/asl_20_summary.txt",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/raw/asl_20_summary.txt"
-    },
-    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/res/merged/androidTest/debug/raw/asl_20_full.txt",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/raw/asl_20_full.txt"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/res/merged/androidTest/debug/raw/asl_20_summary.txt",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/raw/asl_20_summary.txt"
     }
 ]
