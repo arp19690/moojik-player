@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/color/vpi__dark_theme.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/color/vpi__dark_theme.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/color/vpi__dark_theme.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/color/vpi__dark_theme.xml"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/color/vpi__light_theme.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/color/vpi__light_theme.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/color/vpi__light_theme.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/color/vpi__light_theme.xml"
     }
 ]

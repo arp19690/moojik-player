@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/quickScroll/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/quickScroll/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/akshay/Desktop/work/moojik-player/quickScroll/src/main/assets"/><source path="/home/akshay/Desktop/work/moojik-player/quickScroll/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/akshay/Desktop/work/moojik-player/quickScroll/src/debug/assets"/></dataSet></merger>
