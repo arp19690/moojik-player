@@ -147,8 +147,6 @@ public class MainActivity extends FragmentActivity {
 
 		//Loading ads here
 		AdView mAdView = (AdView) findViewById(R.id.adView);
-		if(mAdView==null)
-		Log.i("testing","adview is null");
 		AdRequest adRequest = new AdRequest.Builder().build();
 		mAdView.loadAd(adRequest);
     	
