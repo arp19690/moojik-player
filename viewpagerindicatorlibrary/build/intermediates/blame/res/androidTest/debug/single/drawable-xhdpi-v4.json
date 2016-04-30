@@ -1,11 +1,23 @@
 [
     {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png"
+    },
+    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/exploded-aar/moojikPlayer/velocityviewpagerlibrary/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png"
     },
     {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_unselected_holo.9.png",
@@ -20,11 +32,27 @@
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_selected_holo.9.png"
     },
     {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png"
     },
     {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/viewpagerindicatorlibrary/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/viewpagerindicatorlibrary/build/intermediates/exploded-aar/moojik-player/velocityviewpagerlibrary/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
     }
 ]

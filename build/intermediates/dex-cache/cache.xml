@@ -2,179 +2,179 @@
 <items version="2" >
 
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/renderscript-v8.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_a433c2756d36c036aeecd659d3374cb6dac21261/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/jaudiotagger-2.0.4-20111207.115108-15.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="64a05cf9050623a0f71fa655ec5407915c481aa7">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/jaudiotagger-2.0.4-20111207.115108-15_1c634fde898ef92afc2d2851d182adfe6610e246/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_94f745b9db6a0b2110e4b02cc064c1a8db1448f5/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="746f5780df4d0a52cf770f3acd5105059de92546">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d0b9406b8ee1f3ede732bb5f70ca7e880a3eb58/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/moojik-player/picasso/unspecified/jars/libs/okio-1.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="af628457f9eea785e532a11b5d957393be7cb4d1">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/okio-1.0.0_2ace267c08d89424032619fb286cda9bb43229c8/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/renderscript-v8.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="19d54695d29d5ca94dda30368a7df0b33ffc17d7">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/renderscript-v8_a5aa92fb727f41dabfb537bdac2d61468aa112b4/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/moojikPlayer/picasso/unspecified/jars/libs/okio-1.0.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="950c31dffe7a2336c623cdbbd0b86798f33ca330">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/okio-1.0.0_dc4de3c70a0ff894a31fe6e4e63aa665423cc34d/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/dashclock-api-r2.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="7e5decd5bbd057c1a2903be64bfe6f725603cc72">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/dashclock-api-r2.0_100ef582cba0d942230e3e06341abd5a59f1ebac/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/google-http-client-android-1.16.0-rc.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="c2e8114029469943699b390ce14f6c0ff4565807">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.16.0-rc_0be039ce1b499978eba0071975bfb8333e637759/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/commons-logging.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging_9f48cd0a15e9b248f62ffdeb8891299c43266809/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha2_b4946df6565278064914ccaada4e8ad63ccdb8d4/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="7fb5e7353a45539618e4cd10da777bff8aac8c6d">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e58f7b3280bdb678cb559f618bdcd399aaa616c4/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/renderscript-v8_c00834381560f6e51c68bd1b927abf1a3e543e32/classes.dex" />
     </item>
     <item
         jar="/Users/arpit/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_74fbc58af7d0d5af9528051b958d1d4cee559067/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_74fbc58af7d0d5af9528051b958d1d4cee559067/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/jars/classes.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.1.71_8471a476c18dbd14a876ae634ccd899d5209c008/classes.dex" />
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_1416f85f5996609daaeca826778627bc8deb812b/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/com.haarman.listviewanimations-2.6.0.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3-with-sources_69cba23b9ab4c452bc5d5281e4a5224b2467ce02/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/google-http-client-android-1.16.0-rc.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c2e8114029469943699b390ce14f6c0ff4565807">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.16.0-rc_7fb14124ff3b8ad86f9eb7d0e5f2a3659e5e94e4/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/com.haarman.listviewanimations-2.6.0.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/com.haarman.listviewanimations-2.6.0_78fecead6a06b1049afa1a21caaf7edb395198bf/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/commons-io-2.4.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.4_286d4d01648130de3ebf99df3b6637f4bfb3ceb3/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/com.haarman.listviewanimations-2.6.0_daba120d8233ed9d7a84ca7446ddd89d51a58893/classes.dex" />
     </item>
     <item
         jar="/Users/arpit/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_b2e3f6f12ff68d208c683974a02d8f93fb0896f1/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_b2e3f6f12ff68d208c683974a02d8f93fb0896f1/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_007197859ee8cd8720d131ae1a02a57b78a2853d/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-alpha2_a29254729bd798831e9afefedd74cbc9e5251692/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/moojikPlayer/picasso/unspecified/jars/libs/okhttp-urlconnection-1.6.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="8fccb53ebad1844e163b02934f1ec343060c6fe8">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-urlconnection-1.6.0_f946e0975407e98d46413c4dd38025a930f1aa33/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/jaudiotagger-2.0.4-20111207.115108-15.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="64a05cf9050623a0f71fa655ec5407915c481aa7">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/jaudiotagger-2.0.4-20111207.115108-15_b30a6db1f67b93bb5e67a5d2c084a75b175d02a4/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/commons-lang3-3.1.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/commons-lang3-3.1.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.1_09fd0f916ed459e52932b6e16cfba0d7a2c1f042/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.1_93b321056b180943edc6e1aa0aea059ba1b1bd40/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/nineoldandroids-2.4.0.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/moojik-player/picasso/unspecified/jars/libs/annotations-12.0.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_2b26293a08d914cfca6cf186e3fb6d3421231511/classes.dex" />
+        sha1="b2ff95cbd185faa358d478e0739fd715009f69ad">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/annotations-12.0_65580cd69785b30da7065a191fd3b562c02973ad/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/commons-logging.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/commons-logging_54eb92966934a06e4024d2787548520c61d7a246/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha2_264e549e7ebc3f24f24c56e677c311ba2d774bae/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/dashclock-api-r2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7e5decd5bbd057c1a2903be64bfe6f725603cc72">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/dashclock-api-r2.0_d8a507cb990a4b03fca4518eae757a06ffcfe8ef/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.1.71_9a57f45600d65ed0cbdd6ff850bd9bda4127614b/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/moojik-player/picasso/unspecified/jars/libs/okhttp-urlconnection-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7690f219e00de6cefa42ddf6ab496ee9446eb1cc">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-urlconnection-1.6.0_0523b37addd3148d593ce1208f9baf4d3c411e85/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.4_178fb57a37db00cdaf2ebb27d94fd297d1324e98/classes.dex" />
     </item>
     <item
         jar="/Users/arpit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha2/support-annotations-24.0.0-alpha2.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-alpha2_f47263452f9b2f898ce4f255fda74f8c4476e88a/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-alpha2_f47263452f9b2f898ce4f255fda74f8c4476e88a/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/moojikPlayer/picasso/unspecified/jars/libs/okhttp-2.0.0.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/moojik-player/picasso/unspecified/jars/libs/okhttp-2.0.0.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="3cee708f017bf3bc526e9bc0f45adee6ec61ea71">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-2.0.0_4fb68e8c33266f5d4041b35a568bbaef864f21f5/classes.dex" />
+        sha1="6b068bb817ed800a4aeed1ae91d09c29ab69363a">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-2.0.0_a9e4b6e7196062ef6bb44c7675d1cb068e0ab504/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/jars/libs/internal_impl-24.0.0-alpha2.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="eb62457c95e2154d0a7f28ff2f8bddd993f4d235">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b9334a0868f8dc06c2b2f5c6bf0ee26e3c4ebe6c/classes.dex" />
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-alpha2_3062b38e6e89175576f47d55e02e68641b3e6afa/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/google-http-client-1.16.0-rc.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/libs/google-http-client-1.16.0-rc.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="28ed56f20e8a214ec05d190d6ec4b13656f332a7">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.16.0-rc_c5e296ae992e2e33ba51c88178daa41484680196/classes.dex" />
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.16.0-rc_34a7677ba4a4c51d8093eb891871f77a7ae66d6b/classes.dex" />
     </item>
     <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/universal-image-loader-1.9.3-with-sources.jar"
+        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3-with-sources_18d0ec3963b59932d0904fa5f899f5a59ae9559b/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/libs/libGoogleAnalyticsServices.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_99edc5e8c8eb7c3264d3fababab0b98cc46d956d/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/exploded-aar/moojikPlayer/picasso/unspecified/jars/libs/annotations-12.0.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="b2ff95cbd185faa358d478e0739fd715009f69ad">
-        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/transforms/dex/debug/folders/1000/8/annotations-12.0_36080a7a93ecb6088b59bd016d18508587b827b9/classes.dex" />
+        sha1="c014a2410eb388c0ef2c161f518f0e5ef8d4a3ad">
+        <dex dex="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1304c844064e701557da2a8bc4abdd9238641ac2/classes.dex" />
     </item>
 
 </items>

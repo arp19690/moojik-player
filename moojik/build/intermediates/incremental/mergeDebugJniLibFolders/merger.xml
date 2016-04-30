@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/debug/jniLibs"/></dataSet></merger>

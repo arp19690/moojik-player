@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 1015
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1286
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1572
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 1768
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 1974
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 2176
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
@@ -159,7 +159,7 @@
                     "endOffset": 2388
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -180,7 +180,7 @@
                     "endOffset": 2679
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 3620
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 4574
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 1,
@@ -243,7 +243,7 @@
                     "endOffset": 5572
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 4,
@@ -264,7 +264,7 @@
                     "endOffset": 6559
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 4,
@@ -285,7 +285,7 @@
                     "endOffset": 7518
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -306,7 +306,7 @@
                     "endOffset": 8490
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 1,
@@ -327,7 +327,7 @@
                     "endOffset": 8956
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 1,
@@ -348,7 +348,7 @@
                     "endOffset": 9433
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 1,
@@ -369,7 +369,7 @@
                     "endOffset": 9635
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -390,7 +390,7 @@
                     "endOffset": 9847
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 214,
                         "startColumn": 4,
@@ -411,7 +411,7 @@
                     "endOffset": 10217
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 4,
@@ -432,7 +432,7 @@
                     "endOffset": 10607
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -453,7 +453,7 @@
                     "endOffset": 11097
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -474,7 +474,7 @@
                     "endOffset": 11268
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 278,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 11433
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 274,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 11598
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 11823
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 12157
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 13141
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 14144
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 14339
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -642,7 +642,7 @@
                     "endOffset": 14544
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 14748
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 4,
@@ -684,7 +684,7 @@
                     "endOffset": 14962
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -705,7 +705,7 @@
                     "endOffset": 15141
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 292,
                         "startColumn": 4,
@@ -726,7 +726,7 @@
                     "endOffset": 16394
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -747,7 +747,7 @@
                     "endOffset": 16651
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -768,7 +768,7 @@
                     "endOffset": 16923
                 },
                 "from": {
-                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,

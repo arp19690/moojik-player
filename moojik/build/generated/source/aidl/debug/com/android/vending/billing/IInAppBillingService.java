@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/moojik/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl
+ * Original file: /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl
  */
 package com.android.vending.billing;
 /**

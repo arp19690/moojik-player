@@ -1,5 +1,69 @@
 [
     {
+        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endLine": 15,
+                    "endColumn": 13,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endLine": 15,
+                        "endColumn": 13,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 49,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/licensesdialoglibrary/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 49,
+                        "endOffset": 429
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/licensesdialoglibrary/build/intermediates/res/merged/androidTest/debug/values/values.xml",
         "map": [
             {

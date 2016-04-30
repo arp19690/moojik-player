@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/velocityviewpagerlibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/velocityviewpagerlibrary/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/velocityviewpagerlibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
         "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/new/moojikPlayer/velocityviewpagerlibrary/src/main/res/drawable-hdpi/ic_launcher.png"
     }
