@@ -11,7 +11,7 @@ public final class R {
 		public static final int border = 0x7f010007;
 		public static final int border_color = 0x7f010009;
 		public static final int border_width = 0x7f010008;
-		public static final int circularImageViewStyle = 0x7f010030;
+		public static final int circularImageViewStyle = 0x7f010033;
 		public static final int shadow = 0x7f01000a;
 	}
 	public static final class styleable {
@@ -20,7 +20,7 @@ public final class R {
 		public static final int CircularImageView_border_color = 2;
 		public static final int CircularImageView_border_width = 1;
 		public static final int CircularImageView_shadow = 3;
-		public static final int[] Theme = { 0x7f010030 };
+		public static final int[] Theme = { 0x7f010033 };
 		public static final int Theme_circularImageViewStyle = 0;
 	}
 }

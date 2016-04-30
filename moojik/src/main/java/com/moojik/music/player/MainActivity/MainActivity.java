@@ -46,6 +46,8 @@ import com.moojik.music.player.Helpers.UIElementsHelper;
 import com.moojik.music.player.ListViewFragment.ListViewFragment;
 import com.moojik.music.player.R;
 import com.moojik.music.player.Utils.Common;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends FragmentActivity {
 
@@ -141,6 +143,11 @@ public class MainActivity extends FragmentActivity {
             showAlbumArtScanningDialog();
             mApp.getSharedPreferences().edit().putBoolean(Common.FIRST_RUN, false).commit();
         }
+
+		//Loading ads here
+		AdView mAdView = (AdView) findViewById(R.id.adView);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
     	
 	}
 	

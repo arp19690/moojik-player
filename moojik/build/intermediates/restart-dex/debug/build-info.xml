@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="21"
-    density="xxhdpi"
+    api-level="23"
+    density="420dpi"
     format="7"
-    timestamp="172743897994378" >
+    timestamp="176590870534028" >
 
     <task
         name="javac"
-        duration="3007" />
+        duration="4564" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2357" />
+        duration="6228" />
     <task
         name="verifier"
-        duration="397" />
+        duration="499" />
 
     <artifact
         location="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/outputs/apk/moojik-debug.apk"
         type="MAIN" />
 
-    <build timestamp="172743897994378" >
+    <build timestamp="176590870534028" >
         <artifact
             location="/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/outputs/apk/moojik-debug.apk"
             type="MAIN" />
