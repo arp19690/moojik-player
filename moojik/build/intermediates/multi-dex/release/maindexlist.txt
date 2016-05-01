@@ -338,6 +338,7 @@ android/support/v4/media/RatingCompat$1.class
 android/support/v4/view/ViewCompat$JBViewCompatImpl.class
 cz/msebera/android/httpclient/impl/client/cache/CacheValidityPolicy.class
 cz/msebera/android/httpclient/impl/io/DefaultHttpResponseParser.class
+com/google/android/gms/ads/AdActivity.class
 android/support/v4/media/MediaMetadataCompatApi21.class
 com/moojik/music/player/Services/AudioPlaybackService$8.class
 com/google/ads/mediation/MediationInterstitialAdapter.class
@@ -403,6 +404,7 @@ android/support/v4/app/SuperNotCalledException.class
 com/moojik/music/player/BrowserSubGridActivity/BrowserSubGridAdapter.class
 org/intellij/lang/annotations/Identifier.class
 com/google/android/gms/internal/dd.class
+com/google/android/gms/dynamic/g.class
 cz/msebera/android/httpclient/params/HttpAbstractParamBean.class
 com/moojik/music/player/NowPlayingActivity/NowPlayingActivity$1.class
 android/support/v4/app/FragmentHostCallback.class
@@ -772,8 +774,8 @@ org/jetbrains/annotations/NotNull.class
 com/moojik/music/player/PlaylistEditorActivity/PlaylistEditorArtistsMultiselectAdapter.class
 android/support/v4/media/MediaDescriptionCompat.class
 android/support/v4/media/session/MediaSessionCompat$QueueItem.class
-com/google/api/client/http/BackOffPolicy.class
 org/apache/commons/io/filefilter/WildcardFilter.class
+com/google/api/client/http/BackOffPolicy.class
 cz/msebera/android/httpclient/impl/conn/PoolingClientConnectionManager.class
 com/google/analytics/tracking/android/CampaignTrackingService.class
 cz/msebera/android/httpclient/impl/conn/tsccm/BasicPoolEntry.class
@@ -995,6 +997,7 @@ com/google/android/gms/ads/search/SearchAdRequest.class
 com/moojik/music/player/EqualizerActivity/EqualizerActivity$13.class
 com/google/android/gms/drive/DriveFolder.class
 android/support/annotation/AttrRes.class
+com/google/android/gms/internal/ds.class
 com/moojik/music/player/Services/BuildMusicLibraryService.class
 com/google/android/gms/internal/dz.class
 cz/msebera/android/httpclient/conn/scheme/SocketFactoryAdaptor.class

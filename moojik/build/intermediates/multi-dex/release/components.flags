@@ -158,6 +158,10 @@
     <init>();
 }
 
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
 -keep public class * extends android.app.backup.BackupAgent {
     <init>();
 }

@@ -37,6 +37,7 @@
 -keep class com.moojik.music.player.Services.KitKatFixActivity { <init>(); }
 -keep class com.moojik.music.player.BrowserSubListActivity.BrowserSubListActivity { <init>(); }
 -keep class com.moojik.music.player.BrowserSubGridActivity.BrowserSubGridActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
 -keep public class * extends android.app.backup.BackupAgent {
     <init>();
 }

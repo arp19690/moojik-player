@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:2:1-311:12
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:2:1-304:12
 	package
 		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml
@@ -75,7 +75,7 @@ MERGED from [com.android.support:multidex:1.0.1] /Applications/XAMPP/xamppfiles/
 		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml
 		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml
 application
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:20:5-309:19
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:20:5-302:19
 MERGED from [moojik-player:licensesdialoglibrary:unspecified] /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/moojik-player/licensesdialoglibrary/unspecified/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:24.0.0-alpha2] /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:24.0.0-alpha2] /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha2/AndroidManifest.xml:22:5-20
@@ -124,7 +124,7 @@ ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/mooj
 	android:name
 		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:41:25-76
 activity#com.moojik.music.player.NowPlayingActivity.NowPlayingActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:47:9-52:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:47:9-51:56
 	android:label
 		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:50:13-48
 	android:launchMode
@@ -134,288 +134,294 @@ ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/mooj
 	android:name
 		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:48:13-89
 activity#com.moojik.music.player.EqualizerActivity.EqualizerActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:56:9-60:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:55:9-58:58
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:59:13-46
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:58:13-46
 	android:exported
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:58:13-36
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:57:13-36
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:57:13-87
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:56:13-87
 activity#com.moojik.music.player.LauncherActivity.LauncherActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:64:9-70:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:62:9-68:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:64:19-91
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:62:19-91
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:65:13-69:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:63:13-67:29
 action#android.intent.action.MAIN
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:66:17-69
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:66:25-66
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:64:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:68:17-77
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:68:27-74
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:66:27-74
 activity#com.moojik.music.player.WelcomeActivity.WelcomeActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:74:9-77:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:72:9-74:57
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:76:13-45
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:74:13-45
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:75:13-83
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:73:13-83
 activity#com.moojik.music.player.MainActivity.MainActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:81:9-85:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:78:9-81:56
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:83:13-45
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:80:13-45
 	android:theme
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:84:13-44
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:81:13-44
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:82:13-77
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:79:13-77
 service#com.moojik.music.player.Services.AudioPlaybackService
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:89:9-89
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:85:9-89
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:89:18-86
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:85:18-86
 service#com.moojik.music.player.Services.AutoFetchAlbumArtService
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:90:9-93
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:86:9-93
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:90:18-90
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:86:18-90
 service#com.moojik.music.player.Services.PinGMusicSongsService
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:91:9-90
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:87:9-90
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:91:18-87
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:87:18-87
 service#com.moojik.music.player.Services.LargeWidgetAdapterService
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:92:9-95:72
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:88:9-91:72
+	android:exported
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:90:13-37
+	android:permission
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:91:13-69
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:89:13-86
+service#com.moojik.music.player.Services.BuildMusicLibraryService
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:92:9-94:40
 	android:exported
 		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:94:13-37
-	android:permission
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:95:13-69
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:93:13-86
-service#com.moojik.music.player.Services.BuildMusicLibraryService
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:96:9-98:40
-	android:exported
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:98:13-37
-	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:97:13-85
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:93:13-85
 service#com.moojik.music.player.Services.DashClockExtensionService
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:99:9-117:19
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:95:9-113:19
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:102:13-50
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:98:13-50
 	android:permission
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:103:13-98
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:99:13-98
 	android:icon
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:101:13-52
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:97:13-52
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:100:13-86
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:96:13-86
 intent-filter#com.google.android.apps.dashclock.Extension
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:104:13-106:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:100:13-102:29
 action#com.google.android.apps.dashclock.Extension
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:105:17-86
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:101:17-86
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:105:25-83
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:101:25-83
 meta-data#protocolVersion
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:108:13-110:37
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:104:13-106:37
 	android:value
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:110:17-34
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:106:17-34
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:109:17-47
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:105:17-47
 meta-data#worldReadable
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:111:13-113:40
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:107:13-109:40
 	android:value
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:113:17-37
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:109:17-37
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:112:17-45
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:108:17-45
 meta-data#description
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:114:13-116:65
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:110:13-112:65
 	android:value
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:116:17-62
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:112:17-62
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:115:17-43
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:111:17-43
 receiver#com.moojik.music.player.WidgetProviders.LargeWidgetProvider
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:121:9-131:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:117:9-127:20
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:123:13-48
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:119:13-48
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:122:13-87
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:118:13-87
 intent-filter#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:124:13-126:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:120:13-122:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:125:17-84
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:121:17-84
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:125:25-81
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:121:25-81
 meta-data#android.appwidget.provider
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:128:13-130:61
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:124:13-126:61
 	android:resource
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:130:17-58
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:126:17-58
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:129:17-58
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:125:17-58
 receiver#com.moojik.music.player.WidgetProviders.BlurredWidgetProvider
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:135:9-145:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:131:9-141:20
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:137:13-60
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:133:13-60
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:136:13-89
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:132:13-89
 receiver#com.moojik.music.player.WidgetProviders.AlbumArtWidgetProvider
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:149:9-159:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:145:9-155:20
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:151:13-52
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:147:13-52
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:150:13-90
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:146:13-90
 receiver#com.moojik.music.player.BroadcastReceivers.HeadsetButtonsReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:163:9-167:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:159:9-163:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:163:19-99
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:159:19-99
 intent-filter#android.intent.action.MEDIA_BUTTON
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:164:13-166:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:160:13-162:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:165:17-77
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:161:17-77
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:165:25-74
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:161:25-74
 receiver#com.moojik.music.player.WidgetProviders.SmallWidgetProvider
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:171:9-181:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:167:9-177:20
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:173:13-48
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:169:13-48
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:172:13-87
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:168:13-87
 activity#com.moojik.music.player.WidgetProviders.LargeWidgetConfigActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:185:9-189:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:181:9-185:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:185:19-99
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:181:19-99
 intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:186:13-188:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:182:13-184:29
 action#android.appwidget.action.APPWIDGET_CONFIGURE
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:187:17-87
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:183:17-87
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:187:25-84
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:183:25-84
 activity#com.moojik.music.player.WidgetProviders.SmallWidgetConfigActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:193:9-197:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:189:9-193:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:193:19-99
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:189:19-99
 receiver#com.moojik.music.player.BroadcastReceivers.LaunchNowPlayingReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:201:9-205:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:197:9-201:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:201:19-101
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:197:19-101
 intent-filter#com.moojik.music.player.LAUNCH_NOW_PLAYING_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:202:13-204:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:198:13-200:29
 action#com.moojik.music.player.LAUNCH_NOW_PLAYING_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:203:17-92
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:199:17-92
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:203:25-89
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:199:25-89
 receiver#com.moojik.music.player.BroadcastReceivers.PlayPauseBroadcastReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:209:9-213:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:205:9-209:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:209:19-103
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:205:19-103
 intent-filter#com.moojik.music.player.PLAY_PAUSE_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:210:13-212:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:206:13-208:29
 action#com.moojik.music.player.PLAY_PAUSE_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:211:17-84
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:207:17-84
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:211:25-81
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:207:25-81
 receiver#com.moojik.music.player.BroadcastReceivers.PreviousBroadcastReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:217:9-221:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:213:9-217:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:217:19-102
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:213:19-102
 intent-filter#com.moojik.music.player.PREVIOUS_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:218:13-220:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:214:13-216:29
 action#com.moojik.music.player.PREVIOUS_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:219:17-82
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:215:17-82
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:219:25-79
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:215:25-79
 receiver#com.moojik.music.player.BroadcastReceivers.NextBroadcastReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:225:9-229:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:221:9-225:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:225:19-98
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:221:19-98
 intent-filter#com.moojik.music.player.NEXT_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:226:13-228:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:222:13-224:29
 action#com.moojik.music.player.NEXT_ACTION
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:227:17-78
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:223:17-78
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:227:25-75
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:223:25-75
 receiver#com.moojik.music.player.BroadcastReceivers.StopServiceBroadcastReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:233:9-237:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:229:9-233:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:233:19-105
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:229:19-105
 intent-filter#com.moojik.music.player.STOP_SERVICE
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:234:13-236:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:230:13-232:29
 action#com.moojik.music.player.STOP_SERVICE
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:235:17-79
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:231:17-79
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:235:25-76
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:231:25-76
 receiver#com.moojik.music.player.BroadcastReceivers.ChangeTrackBroadcastReceiver
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:241:9-245:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:237:9-241:20
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:241:19-105
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:237:19-105
 intent-filter#com.moojik.music.player.WIDGET_CHANGE_TRACK
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:242:13-244:29
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:238:13-240:29
 action#com.moojik.music.player.WIDGET_CHANGE_TRACK
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:243:17-86
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:239:17-86
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:243:25-83
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:239:25-83
 activity#com.moojik.music.player.SettingsActivity.SettingsActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:249:9-250:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:245:9-103
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:249:19-91
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:245:19-91
 activity#com.moojik.music.player.SettingsActivity.PreferenceDialogLauncherActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:254:9-258:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:249:9-252:67
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:256:13-45
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:251:13-45
 	android:theme
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:257:13-55
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:252:13-55
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:255:13-101
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:250:13-101
 activity#com.moojik.music.player.NowPlayingQueueActivity.NowPlayingQueueActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:262:9-265:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:256:9-258:66
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:264:13-54
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:258:13-54
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:263:13-99
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:257:13-99
 activity#com.moojik.music.player.BlacklistManagerActivity.BlacklistManagerActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:269:9-272:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:262:9-264:81
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:271:13-69
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:264:13-69
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:270:13-101
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:263:13-101
 activity#com.moojik.music.player.MusicLibraryEditorActivity.MusicLibraryEditorActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:276:9-279:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:268:9-270:69
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:278:13-57
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:270:13-57
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:277:13-105
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:269:13-105
 activity#com.moojik.music.player.PlaylistEditorActivity.PlaylistEditorActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:283:9-286:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:274:9-276:58
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:285:13-46
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:276:13-46
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:284:13-97
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:275:13-97
 activity#com.moojik.music.player.Services.KitKatFixActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:290:9-300:62
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:280:9-290:62
 	android:clearTaskOnLaunch
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:294:13-45
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:284:13-45
 	android:enabled
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:295:13-35
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:285:13-35
 	android:stateNotNeeded
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:299:13-42
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:289:13-42
 	android:excludeFromRecents
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:296:13-46
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:286:13-46
 	android:noHistory
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:298:13-37
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:288:13-37
 	android:allowTaskReparenting
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:292:13-48
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:282:13-48
 	android:alwaysRetainTaskState
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:293:13-50
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:283:13-50
 	android:finishOnTaskLaunch
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:297:13-46
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:287:13-46
 	android:theme
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:300:13-59
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:290:13-59
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:291:13-78
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:281:13-78
 activity#com.moojik.music.player.BrowserSubListActivity.BrowserSubListActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:301:9-304:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:291:9-293:75
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:303:13-63
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:293:13-63
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:302:13-97
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:292:13-97
 activity#com.moojik.music.player.BrowserSubGridActivity.BrowserSubGridActivity
-ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:305:9-308:20
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:295:9-297:81
 	android:label
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:307:13-69
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:297:13-69
 	android:name
-		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:306:13-97
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:296:13-97
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:299:9-301:125
+	android:configChanges
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:301:13-122
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/AndroidManifest.xml:300:13-65
