@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_playlists_flipped.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/layout-land/fragment_playlists_flipped.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_albums_flipped.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/layout-land/fragment_albums_flipped.xml"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/activity_now_playing.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/layout-land/activity_now_playing.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/activity_now_playing.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/layout-land/activity_now_playing.xml"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_genres_flipped.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/layout-land/fragment_genres_flipped.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_playlists_flipped.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/layout-land/fragment_playlists_flipped.xml"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_artists_flipped.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/layout-land/fragment_artists_flipped.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_artists_flipped.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/layout-land/fragment_artists_flipped.xml"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_albums_flipped.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/layout-land/fragment_albums_flipped.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_artists_flipped_songs.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/layout-land/fragment_artists_flipped_songs.xml"
     },
     {
-        "merged": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_artists_flipped_songs.xml",
-        "source": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/layout-land/fragment_artists_flipped_songs.xml"
+        "merged": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/layout-land/fragment_genres_flipped.xml",
+        "source": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/layout-land/fragment_genres_flipped.xml"
     }
 ]
