@@ -13,8 +13,8 @@ android {
 
     defaultConfig {
         applicationId "com.moojik.music.player"
-        minSdkVersion 14
-        targetSdkVersion 19
+        minSdkVersion 19
+        targetSdkVersion 22
         multiDexEnabled true
 
         //RenderScript backward compatibility for guassian blurs.
@@ -50,10 +50,10 @@ repositories {
 //noinspection GroovyAssignabilityCheck
 dependencies {
     compile project(':licensesdialoglibrary')
-    compile project(':quickScroll')
-    compile project(':velocityviewpagerlibrary')
+//    compile project(':quickScroll')
+//    compile project(':velocityviewpagerlibrary')
     compile project(':dragsortlistviewlibrary')
-    compile project(':viewpagerindicatorlibrary')
+//    compile project(':viewpagerindicatorlibrary')
     compile project(':circularImageView')
     compile project(':picasso')
     compile files('libs/commons-io-2.4.jar')
@@ -66,7 +66,7 @@ dependencies {
     compile files('libs/libGoogleAnalyticsServices.jar')
     compile files('libs/universal-image-loader-1.9.3-with-sources.jar')
     compile files('libs/com.haarman.listviewanimations-2.6.0.jar')
-    compile files('libs/nineoldandroids-2.4.0.jar')
+//    compile files('libs/nineoldandroids-2.4.0.jar')
     compile files('libs/renderscript-v8.jar')
 
     compile files('libs/android-async-http-1.4.2-66-g4b6eb97.jar')

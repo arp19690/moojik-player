@@ -286,16 +286,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static int default_title_indicator_selected_color=0x7f050006;
         public static int default_title_indicator_text_color=0x7f050007;
         public static int default_underline_indicator_selected_color=0x7f050008;
-        public static int vpi__background_holo_dark=0x7f050009;
-        public static int vpi__background_holo_light=0x7f05000a;
-        public static int vpi__bright_foreground_disabled_holo_dark=0x7f05000b;
-        public static int vpi__bright_foreground_disabled_holo_light=0x7f05000c;
-        public static int vpi__bright_foreground_holo_dark=0x7f05000d;
-        public static int vpi__bright_foreground_holo_light=0x7f05000e;
-        public static int vpi__bright_foreground_inverse_holo_dark=0x7f05000f;
-        public static int vpi__bright_foreground_inverse_holo_light=0x7f050010;
-        public static int vpi__dark_theme=0x7f050011;
-        public static int vpi__light_theme=0x7f050012;
+        public static int vpi__background_holo_light=0x7f050009;
+        public static int vpi__bright_foreground_disabled_holo_dark=0x7f05000a;
+        public static int vpi__bright_foreground_holo_dark=0x7f05000b;
+        public static int vpi__dark_theme=0x7f05000c;
     }
     public static final class dimen {
         public static int default_circle_indicator_radius=0x7f060000;

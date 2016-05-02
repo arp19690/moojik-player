@@ -201,15 +201,6 @@
         <item>Light</item> 
         <item>Dark</item> 
     </string-array>
-    <attr format="boolean" name="centered"/>
-    <attr format="color" name="selectedColor"/>
-    <attr format="dimension" name="strokeWidth"/>
-    <attr format="color" name="unselectedColor"/>
-    <bool name="default_circle_indicator_centered">true</bool>
-    <bool name="default_circle_indicator_snap">false</bool>
-    <bool name="default_line_indicator_centered">true</bool>
-    <bool name="default_title_indicator_selected_bold">true</bool>
-    <bool name="default_underline_indicator_fades">true</bool>
     <bool name="ga_autoActivityTracking">true</bool>
     <bool name="ga_reportUncaughtExceptions">true</bool>
     <bool name="landscape">false</bool>
@@ -225,15 +216,6 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
-    <color name="default_circle_indicator_page_color">#00000000</color>
-    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
-    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
-    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
-    <color name="default_title_indicator_footer_color">#FF33B5E5</color>
-    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
-    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
-    <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
     <color name="holo_blue_light">#ff33b5e5</color>
     <color name="holo_blue_light_transparent">#9933b5e5</color>
     <color name="holo_green_dark">#ff669900</color>
@@ -246,14 +228,6 @@
     <color name="transparent">#00000000</color>
     <color name="transparent_black">#99000000</color>
     <color name="transparent_white">#ffcccccc</color>
-    <color name="vpi__background_holo_dark">#ff000000</color>
-    <color name="vpi__background_holo_light">#fff3f3f3</color>
-    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
-    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
-    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
-    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
-    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
-    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
     <color name="wallet_bright_foreground_holo_light">#ff000000</color>
@@ -274,11 +248,6 @@
     <declare-styleable name="DragSortListView"><attr format="dimension" name="collapsed_height"/><attr format="float" name="drag_scroll_start"/><attr format="float" name="max_drag_scroll_speed"/><attr format="color" name="float_background_color"/><attr name="remove_mode"><enum name="clickRemove" value="0"/><enum name="flingRemove" value="1"/></attr><attr format="boolean" name="track_drag_sort"/><attr format="float" name="float_alpha"/><attr format="float" name="slide_shuffle_speed"/><attr format="integer" name="remove_animation_duration"/><attr format="integer" name="drop_animation_duration"/><attr format="boolean" name="drag_enabled"/><attr format="boolean" name="sort_enabled"/><attr format="boolean" name="remove_enabled"/><attr name="drag_start_mode"><enum name="onDown" value="0"/><enum name="onMove" value="1"/><enum name="onLongPress" value="2"/></attr><attr format="integer" name="drag_handle_id"/><attr format="integer" name="fling_handle_id"/><attr format="integer" name="click_remove_id"/><attr format="boolean" name="use_default_controller"/></declare-styleable>
     <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
     <declare-styleable name="Theme"><attr format="reference" name="circularImageViewStyle"/></declare-styleable>
-    <declare-styleable name="VelocityCirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
-    <declare-styleable name="VelocityLinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable>
-    <declare-styleable name="VelocityTitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
-    <declare-styleable name="VelocityUnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
-    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
     <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
     <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
@@ -301,19 +270,6 @@
     <dimen name="app_widget_small_min_width">250.0dip</dimen>
     <dimen name="app_widget_tiny_height">70.0dip</dimen>
     <dimen name="app_widget_tiny_width">70.0dip</dimen>
-    <dimen name="default_circle_indicator_radius">3dp</dimen>
-    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
-    <dimen name="default_line_indicator_gap_width">4dp</dimen>
-    <dimen name="default_line_indicator_line_width">12dp</dimen>
-    <dimen name="default_line_indicator_stroke_width">1dp</dimen>
-    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
-    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
-    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
-    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
-    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
-    <dimen name="default_title_indicator_text_size">15dp</dimen>
-    <dimen name="default_title_indicator_title_padding">5dp</dimen>
-    <dimen name="default_title_indicator_top_padding">7dp</dimen>
     <dimen name="footer_thumbnail">50dp</dimen>
     <dimen name="image_height_vmlimit">200dp</dimen>
     <dimen name="image_width_vmlimit">200dp</dimen>
@@ -355,11 +311,6 @@
     <integer name="artist_flipped_album_width">75</integer>
     <integer name="card_flip_time_full">300</integer>
     <integer name="card_flip_time_half">150</integer>
-    <integer name="default_circle_indicator_orientation">0</integer>
-    <integer name="default_title_indicator_footer_indicator_style">2</integer>
-    <integer name="default_title_indicator_line_position">0</integer>
-    <integer name="default_underline_indicator_fade_delay">300</integer>
-    <integer name="default_underline_indicator_fade_length">400</integer>
     <integer name="google_play_services_version">6171000</integer>
     <integer name="num_cols">1</integer>
     <string name="a_b_repeat">A-B Repeat</string>
@@ -1274,10 +1225,6 @@
         <item name="android:actionBarWidgetTheme">@style/Theme.Appthemelight.Widget</item>
 
     </style>
-    <style name="TextAppearance.TabPageIndicator" parent="Widget">
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/vpi__dark_theme</item>
-    </style>
     <style name="Theme.Apptheme.Widget" parent="@android:style/Theme.Holo">
         <item name="android:popupMenuStyle">@style/PopupMenu.Apptheme</item>
         <item name="android:dropDownListViewStyle">@style/DropDownListView.Apptheme</item>
@@ -1294,10 +1241,6 @@
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
-        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
-        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
-    </style>
     <style name="WalletFragmentDefaultButtonTextAppearance">
         <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
         <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
@@ -1329,22 +1272,5 @@
         <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
         <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
         <item name="maskedWalletDetailsLogoImageType">classic</item>
-    </style>
-    <style name="Widget">
-    </style>
-    <style name="Widget.IconPageIndicator" parent="Widget">
-        <item name="android:layout_marginLeft">6dp</item>
-        <item name="android:layout_marginRight">6dp</item>
-    </style>
-    <style name="Widget.TabPageIndicator" parent="Widget">
-        <item name="android:gravity">center</item>
-        <item name="android:background">@drawable/vpi__tab_indicator</item>
-        <item name="android:paddingLeft">22dip</item>
-        <item name="android:paddingRight">22dip</item>
-        <item name="android:paddingTop">12dp</item>
-        <item name="android:paddingBottom">12dp</item>
-        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
-        <item name="android:textSize">12sp</item>
-        <item name="android:maxLines">1</item>
     </style>
 </resources>
