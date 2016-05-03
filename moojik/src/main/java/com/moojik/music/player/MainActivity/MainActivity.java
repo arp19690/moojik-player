@@ -25,7 +25,6 @@ import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
-import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.util.Log;
 import android.util.TypedValue;
@@ -105,7 +104,7 @@ public class MainActivity extends FragmentActivity {
         loadDrawerFragments();
 		
         //KitKat specific translucency.
-        applyKitKatTranslucency();
+//        applyKitKatTranslucency();
         
         //Load the fragment.
         loadFragment(savedInstanceState);
@@ -318,7 +317,7 @@ public class MainActivity extends FragmentActivity {
 								   .commit();
 		
 		//Close the drawer(s).
-		mDrawerLayout.closeDrawer(GravityCompat.START);
+		mDrawerLayout.closeDrawer(Gravity.START);
         invalidateOptionsMenu();
 
 	}

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/values-w820dp-land-v13/values-w820dp-land-v13.xml",
+        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/values-w820dp-land-v13/values-w820dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 89
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-w820dp-land/screen.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-w820dp-land/screen.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-w820dp-land/screen.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-w820dp-land/screen.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,

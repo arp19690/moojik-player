@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/akshay/Desktop/work/moojik-player/moojik/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "outputFile": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,15 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3752,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 4210
+                    }
                 }
             },
             {
@@ -25,7 +33,15 @@
                     "endOffset": 1015
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 12390,
+                        "endLine": 203,
+                        "endColumn": 12,
+                        "endOffset": 12887
+                    }
                 }
             },
             {
@@ -38,7 +54,15 @@
                     "endOffset": 1286
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4216,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 4482
+                    }
                 }
             },
             {
@@ -51,7 +75,15 @@
                     "endOffset": 1572
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 12893,
+                        "endLine": 208,
+                        "endColumn": 12,
+                        "endOffset": 13174
+                    }
                 }
             },
             {
@@ -64,7 +96,15 @@
                     "endOffset": 1768
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4887,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 5078
+                    }
                 }
             },
             {
@@ -77,7 +117,15 @@
                     "endOffset": 1974
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 13599,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 13800
+                    }
                 }
             },
             {
@@ -90,7 +138,15 @@
                     "endOffset": 2176
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 5668,
+                        "endLine": 98,
+                        "endColumn": 12,
+                        "endOffset": 5865
+                    }
                 }
             },
             {
@@ -103,7 +159,15 @@
                     "endOffset": 2388
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 14420,
+                        "endLine": 234,
+                        "endColumn": 12,
+                        "endOffset": 14627
+                    }
                 }
             },
             {
@@ -111,392 +175,608 @@
                     "startLine": 34,
                     "startColumn": 4,
                     "startOffset": 2393,
-                    "endLine": 43,
+                    "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 2873
+                    "endOffset": 2679
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
                         "startOffset": 186,
-                        "endLine": 15,
+                        "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 666
+                        "endOffset": 472
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2878,
-                    "endLine": 55,
+                    "startOffset": 2684,
+                    "endLine": 52,
                     "endColumn": 12,
-                    "endOffset": 3815
+                    "endOffset": 3620
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1055,
-                        "endLine": 37,
+                        "startOffset": 861,
+                        "endLine": 34,
                         "endColumn": 12,
-                        "endOffset": 1992
+                        "endOffset": 1797
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3820,
-                    "endLine": 68,
+                    "startOffset": 3625,
+                    "endLine": 65,
                     "endColumn": 12,
-                    "endOffset": 4769
+                    "endOffset": 4574
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 1,
+                        "startOffset": 8175,
+                        "endLine": 150,
+                        "endColumn": 12,
+                        "endOffset": 9124
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 4774,
-                    "endLine": 80,
+                    "startOffset": 4579,
+                    "endLine": 77,
                     "endColumn": 12,
-                    "endOffset": 5768
+                    "endOffset": 5572
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 14633,
+                        "endLine": 247,
+                        "endColumn": 12,
+                        "endOffset": 15626
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 5773,
-                    "endLine": 92,
+                    "startOffset": 5577,
+                    "endLine": 89,
                     "endColumn": 12,
-                    "endOffset": 6755
+                    "endOffset": 6559
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 7151,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 8133
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 6760,
-                    "endLine": 104,
+                    "startOffset": 6564,
+                    "endLine": 101,
                     "endColumn": 12,
-                    "endOffset": 7714
+                    "endOffset": 7518
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2788,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 3742
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 7719,
-                    "endLine": 117,
+                    "startOffset": 7523,
+                    "endLine": 114,
                     "endColumn": 12,
-                    "endOffset": 8686
+                    "endOffset": 8490
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 1,
+                        "startOffset": 11417,
+                        "endLine": 196,
+                        "endColumn": 12,
+                        "endOffset": 12384
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 8691,
-                    "endLine": 125,
+                    "startOffset": 8495,
+                    "endLine": 122,
                     "endColumn": 11,
-                    "endOffset": 9152
+                    "endOffset": 8956
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 1,
+                        "startOffset": 6684,
+                        "endLine": 122,
+                        "endColumn": 11,
+                        "endOffset": 7145
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 126,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 9157,
+                    "startOffset": 8961,
+                    "endLine": 130,
+                    "endColumn": 11,
+                    "endOffset": 9433
+                },
+                "from": {
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 1,
+                        "startOffset": 6206,
+                        "endLine": 113,
+                        "endColumn": 11,
+                        "endOffset": 6678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9438,
                     "endLine": 133,
-                    "endColumn": 11,
-                    "endOffset": 9629
+                    "endColumn": 12,
+                    "endOffset": 9635
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4684,
+                        "endLine": 80,
+                        "endColumn": 12,
+                        "endOffset": 4881
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 9634,
+                    "startOffset": 9640,
                     "endLine": 136,
                     "endColumn": 12,
-                    "endOffset": 9831
+                    "endOffset": 9847
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 13386,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 13593
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 9836,
-                    "endLine": 139,
+                    "startOffset": 9852,
+                    "endLine": 141,
                     "endColumn": 12,
-                    "endOffset": 10043
+                    "endOffset": 10217
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5084,
+                        "endLine": 90,
+                        "endColumn": 12,
+                        "endOffset": 5449
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 140,
+                    "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 10048,
-                    "endLine": 144,
+                    "startOffset": 10222,
+                    "endLine": 146,
                     "endColumn": 12,
-                    "endOffset": 10413
+                    "endOffset": 10607
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 13806,
+                        "endLine": 226,
+                        "endColumn": 12,
+                        "endOffset": 14191
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 145,
+                    "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 10418,
-                    "endLine": 149,
+                    "startOffset": 10612,
+                    "endLine": 154,
                     "endColumn": 12,
-                    "endOffset": 10803
+                    "endOffset": 11097
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 16027,
+                        "endLine": 263,
+                        "endColumn": 12,
+                        "endOffset": 16512
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 150,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 10808,
+                    "startOffset": 11102,
                     "endLine": 157,
                     "endColumn": 12,
-                    "endOffset": 11293
+                    "endOffset": 11268
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 17076,
+                        "endLine": 280,
+                        "endColumn": 12,
+                        "endOffset": 17242
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 11298,
+                    "startOffset": 11273,
                     "endLine": 160,
                     "endColumn": 12,
-                    "endOffset": 11464
+                    "endOffset": 11433
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 16910,
+                        "endLine": 276,
+                        "endColumn": 12,
+                        "endOffset": 17070
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 11469,
+                    "startOffset": 11438,
                     "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 11629
+                    "endOffset": 11598
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 16744,
+                        "endLine": 272,
+                        "endColumn": 12,
+                        "endOffset": 16904
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 11634,
-                    "endLine": 166,
+                    "startOffset": 11603,
+                    "endLine": 167,
                     "endColumn": 12,
-                    "endOffset": 11794
+                    "endOffset": 11823
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 16518,
+                        "endLine": 268,
+                        "endColumn": 12,
+                        "endOffset": 16738
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 167,
+                    "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 11799,
-                    "endLine": 170,
+                    "startOffset": 11828,
+                    "endLine": 174,
                     "endColumn": 12,
-                    "endOffset": 12019
+                    "endOffset": 12157
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 17293,
+                        "endLine": 289,
+                        "endColumn": 12,
+                        "endOffset": 17622
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 12024,
-                    "endLine": 177,
+                    "startOffset": 12162,
+                    "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 12353
+                    "endOffset": 13141
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2782
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 178,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 12358,
-                    "endLine": 189,
+                    "startOffset": 13146,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 13337
+                    "endOffset": 14144
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 10412,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 11410
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 13342,
+                    "startOffset": 14149,
                     "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 14340
+                    "endOffset": 14339
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4488,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 4678
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 14345,
+                    "startOffset": 14344,
                     "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 14535
+                    "endOffset": 14544
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 13180,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 13380
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 14540,
+                    "startOffset": 14549,
                     "endLine": 208,
                     "endColumn": 12,
-                    "endOffset": 14740
+                    "endOffset": 14748
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5459,
+                        "endLine": 94,
+                        "endColumn": 12,
+                        "endOffset": 5658
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 14745,
+                    "startOffset": 14753,
                     "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 14944
+                    "endOffset": 14962
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 14201,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 14410
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 14949,
+                    "startOffset": 14967,
                     "endLine": 214,
-                    "endColumn": 12,
-                    "endOffset": 15158
+                    "endColumn": 9,
+                    "endOffset": 15141
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 17659,
+                        "endLine": 294,
+                        "endColumn": 9,
+                        "endOffset": 17833
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 15163,
-                    "endLine": 217,
-                    "endColumn": 9,
-                    "endOffset": 15337
+                    "startOffset": 15146,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 16394
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 9158,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 10406
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 15342,
-                    "endLine": 233,
+                    "startOffset": 16399,
+                    "endLine": 234,
                     "endColumn": 12,
-                    "endOffset": 16590
+                    "endOffset": 16651
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5951,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 6203
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 16595,
-                    "endLine": 237,
+                    "startOffset": 16656,
+                    "endLine": 238,
                     "endColumn": 12,
-                    "endOffset": 16847
+                    "endOffset": 16923
                 },
                 "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 238,
-                    "startColumn": 4,
-                    "startOffset": 16852,
-                    "endLine": 241,
-                    "endColumn": 12,
-                    "endOffset": 17119
-                },
-                "from": {
-                    "file": "/home/akshay/Desktop/work/moojik-player/moojik/src/main/res/values-v19/styles.xml"
+                    "file": "/Applications/XAMPP/xamppfiles/htdocs/work/android/moojik-player/moojik/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 15712,
+                        "endLine": 253,
+                        "endColumn": 12,
+                        "endOffset": 15979
+                    }
                 }
             }
         ]
