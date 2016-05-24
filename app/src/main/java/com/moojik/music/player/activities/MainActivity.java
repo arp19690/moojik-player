@@ -34,7 +34,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.afollestad.appthemeengine.customizers.ATEActivityThemeCustomizer;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.moojik.music.player.MusicPlayer;
+import com.moojik.music.player.R;
 import com.moojik.music.player.fragments.AlbumDetailFragment;
 import com.moojik.music.player.fragments.ArtistDetailFragment;
 import com.moojik.music.player.fragments.MainFragment;
@@ -47,7 +50,6 @@ import com.moojik.music.player.utils.Constants;
 import com.moojik.music.player.utils.Helpers;
 import com.moojik.music.player.utils.NavigationUtils;
 import com.moojik.music.player.utils.TimberUtils;
-import com.moojik.music.player.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
@@ -55,7 +57,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends BaseActivity implements ATEActivityThemeCustomizer {
-
 
     private static MainActivity sMainActivity;
     SlidingUpPanelLayout panelLayout;
@@ -137,6 +138,8 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
         return sMainActivity;
     }
 
+    private AdView mAdView;
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
 
@@ -147,6 +150,12 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+//        Display ad here
+        mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder()
+                .build();
+        mAdView.loadAd(adRequest);
 
         navigationMap.put(Constants.NAVIGATE_LIBRARY, navigateLibrary);
         navigationMap.put(Constants.NAVIGATE_PLAYLIST, navigatePlaylist);
@@ -184,7 +193,7 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
 
         addBackstackListener();
 
-        if(Intent.ACTION_VIEW.equals(action)) {
+        if (Intent.ACTION_VIEW.equals(action)) {
             Handler handler = new Handler();
             handler.postDelayed(new Runnable() {
                 @Override
@@ -375,6 +384,9 @@ public class MainActivity extends BaseActivity implements ATEActivityThemeCustom
     @Override
     public void onResume() {
         super.onResume();
+        if (mAdView != null) {
+            mAdView.resume();
+        }
         sMainActivity = this;
     }
 
